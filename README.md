@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qadirpervez&show_icons=true&locale=en" alt="qadirpervez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qadirpervez&" alt="qadirpervez" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=qadirpervez" alt="qadirpervez" /></p>
