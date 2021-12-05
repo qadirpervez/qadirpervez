@@ -30,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qadirpervez&" alt="qadirpervez" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=qadirpervez" alt="qadirpervez" /></p>
+
+<img src="https://github.com/qadirpervez/qadirpervez/blob/main/images/stat.svg" alt="WakaTime Stats"/>
+
