@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **opensource**
 
+- 🌱 How to reach me **React**
+
 - 💬 Ask me about **javascript, node.js, laravel**
 
 - 📫 How to reach me **786.qadir.pervez@gmail.com**
