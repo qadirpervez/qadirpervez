@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **opensource**
 
-- 🌱 How to reach me **React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **javascript, node.js, laravel**
 
