@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 <h1 align="center">Hi 👋, I'm Qadir Pervez</h1>
 <!-- markdownlint-disable-next-line -->
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer with expertise in JavaScript and Laravel from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qadirpervez&label=Profile%20views&color=0e75b6&style=plastic" alt="qadirpervez" /> </p>
 
